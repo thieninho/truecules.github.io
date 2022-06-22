@@ -538,6 +538,7 @@ font-family: 'Righteous', cursive;
         margin-bottom: 2rem;
     }
     .footer__link--wrapper{
+        flex-direction: column;
         
        
     }
